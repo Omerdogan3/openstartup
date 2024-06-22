@@ -20,3 +20,6 @@ This table serves as a resource for those interested in the latest trends and co
 | Friendly | https://friendly.baremetrics.com |
 | Snipe-it | https://grokability-stats.baremetrics.com |
 | Rankability | https://rankability.baremetrics.com | 
+
+
+![](https://komarev.com/ghpvc/?username=openstartup&style=for-the-badge)
